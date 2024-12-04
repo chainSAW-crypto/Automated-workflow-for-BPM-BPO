@@ -1,0 +1,11 @@
+Urgency Score,Time Constraints,Situation Description,Situation Characteristics
+1,No time constraint,"Routine inquiry, no time-sensitive issue.","Customer asking for general information (e.g., store hours, location). No immediate need for action."
+2,No time constraint,"Simple, non-urgent request, a small concern.","Minor issue (e.g., small delay, minor misunderstanding). No need for escalation."
+3,No time constraint,Customer expresses mild dissatisfaction or makes a minor request.,A small service delay or minor problem causing slight inconvenience. No immediate business impact.
+4,No time constraint,Customer is mildly inconvenienced but not in danger.,"A problem that could escalate if left unresolved but isn't an emergency (e.g., product defect). Requires follow-up soon."
+5,Within this month,Customer has a moderate issue that needs attention soon but isn't urgent.,"Critical issue that may cause moderate consequences if delayed (e.g., wrong billing, delayed shipment)."
+6,Within this month,Customer is facing a problem that could lead to dissatisfaction or financial loss.,"Serious issue with immediate or significant impact (e.g., account security breach, logistical problem)."
+7,Within less than a week,"The customer’s business or daily activity is impacted, and swift resolution is needed.","Significant disruption to the customer’s activities (e.g., service outage, system error). Needs resolution within the week."
+8,Within this week,"The customer’s operation or well-being is at risk, and action must be taken immediately.","Major loss or operational disruption without immediate resolution (e.g., data breach, financial issue)."
+9,Within the day,Crisis-level situation that may involve severe financial or operational consequences.,"The customer faces major loss or operational disruption without immediate resolution (e.g., data breach, financial issue)."
+10,Immediate response (within minutes),Emergency or life-threatening situation where immediate action is required to prevent disaster.,"Emergency scenarios (e.g., health and safety threats, critical service failure). Requires immediate, real-time intervention."
